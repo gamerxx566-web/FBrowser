@@ -1,2 +1,3 @@
 # FBrowser
-Lightweight browser no larger than 500 KB
+
+Lightweight browser no larger than 500 KB!
